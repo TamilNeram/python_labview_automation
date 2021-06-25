@@ -69,3 +69,4 @@ target/
 # Ignore .alias and .lvlps files
 *.aliases
 *.lvlps
+.DS_Store
